@@ -6,8 +6,8 @@
 
 <div align="center">
 
-### 👨‍💻 AI Engineer & Software Developer  
-*Specializing in AI/ML Backend Systems, Generative AI Applications & Explainable AI*  
+### 👨‍💻 Software Engineer in the Making
+*Specializing in AI/ML Backend Systems, Generative AI & Software Development*  
 
 </div>
 
@@ -17,20 +17,15 @@
 <p align="center">
   <a title="Email" href="mailto:grandhinarendrakumar@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42" width="42" /></a>&nbsp;
   <a title="LinkedIn" href="https://www.linkedin.com/in/narendra-kumar-grandhi/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>&nbsp;
-  <a title="GitHub" href="https://github.com/Narendra9595" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" /></a>&nbsp;
 </p>
 
 ---
 
 ### 🔹 About Me  
 - Currently interning at Lear AI, building AI-driven solutions for legal automation and EdTech platforms.
-
-- Previously at Tata Cliq Fashion, worked on backend systems and AI-powered solutions for e-commerce.
-
+- Previously at Tata Cliq Fashion, worked as SDE Intern on backend systems and AI-powered solutions for e-commerce.
 - Skilled in LLMs, AI Agents, RAG pipelines, Vector Databases & Backend APIs.
-
 - Published researcher with a Scopus-indexed paper in Explainable AI (Forest Fire Prediction).
-
 - Open to collaborations on AI-driven solutions and innovative projects.
 
 ---
