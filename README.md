@@ -21,7 +21,6 @@
 
 ---
 
-### 🔹 About Me  
 - Currently interning at Lear AI, building AI-driven solutions for legal automation and EdTech platforms.
 - Previously at Tata Cliq Fashion, worked as SDE Intern on backend systems and AI-powered solutions for e-commerce.
 - Skilled in LLMs, AI Agents, RAG pipelines, Vector Databases & Backend APIs.
