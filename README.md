@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=console.log('Hi+there+👋');const+developer+='Narendra+Kumar+Grandhi';while(coding)+{+create()+}" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There+👋;I'm+Narendra+Kumar+Grandhi;AI+%26+Software+Developer" />
   </a>
 </h1>
+
 
 <div align="center">
 
