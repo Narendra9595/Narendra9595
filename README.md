@@ -32,36 +32,33 @@
 <h2 align="center">⚡ Tech Stack</h2>
 <br/>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,mongodb" /><br>
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" /><br>
+    <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-3366FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Twilio%20AI-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP%2C%20LIME)-008080?style=for-the-badge"/>
 
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,react" /><br>
 
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-3366FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Twilio%20AI-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP%2C%20LIME)-008080?style=for-the-badge"/><br>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,mongodb" />
-  <img src="https://img.shields.io/badge/PostHog-ff3366?style=for-the-badge&logo=posthog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/N8N%20Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/PostHog-ff3366?style=for-the-badge&logo=posthog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/N8N%20Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
 
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+
+  <img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 </div>
-
 <br/>
 <div align="center">
   <em>✨ "Building AI systems that combine intelligence, scalability & explainability." ✨</em> 
