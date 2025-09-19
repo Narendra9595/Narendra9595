@@ -10,7 +10,6 @@
 ### 🌐 Connect with Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grandhinarendrakumar@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-kumar-grandhi/)  
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narendra9595)
 
 ---
 
@@ -47,7 +46,6 @@
   <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/N8N%20Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostHog%20(LLM%20Analytics)-ff5733?style=for-the-badge"/>
 </p>
 
 <p align="center">
