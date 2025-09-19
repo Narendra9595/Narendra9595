@@ -13,9 +13,21 @@
 
 ---
 
+### 🔹 About Me
+- Currently interning at **Lear AI** (AI-driven legal & EdTech automation tools).  
+- Past **SDE Intern at Tata Cliq Fashion**, worked on **GenAI-powered shopping assistant (TARA)**.  
+- Experienced with **LLMs, AI Agents, RAG pipelines, Vector DBs & Backend APIs**.  
+- Researcher with a **Scopus-indexed publication** in Explainable AI (Forest Fire Prediction).  
+
+---
+
 ## Tech Stack  
 
 <p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -27,28 +39,12 @@
   <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Twilio%20AI-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP%2C%20LIME)-008080?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <!-- Frameworks / Libraries -->
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,react" />
-</p>
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js" />
-</p>
-
-<p align="center">
-  <!-- Tools & Platforms -->
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,mongodb" />
   <img src="https://img.shields.io/badge/PostHog-ff3366?style=for-the-badge&logo=posthog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/N8N%20Automation-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
-<p align="center">
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
