@@ -23,15 +23,15 @@
 ---
 
 ### 🔹 About Me  
-Currently interning at Lear AI, building AI-driven solutions for legal automation and EdTech platforms.
+- Currently interning at Lear AI, building AI-driven solutions for legal automation and EdTech platforms.
 
-Previously at Tata Cliq Fashion, worked on backend systems and AI-powered solutions for e-commerce.
+- Previously at Tata Cliq Fashion, worked on backend systems and AI-powered solutions for e-commerce.
 
-Skilled in LLMs, AI Agents, RAG pipelines, Vector Databases & Backend APIs.
+- Skilled in LLMs, AI Agents, RAG pipelines, Vector Databases & Backend APIs.
 
-Published researcher with a Scopus-indexed paper in Explainable AI (Forest Fire Prediction).
+- Published researcher with a Scopus-indexed paper in Explainable AI (Forest Fire Prediction).
 
-Open to collaborations on AI-driven solutions and innovative projects.
+- Open to collaborations on AI-driven solutions and innovative projects.
 
 ---
 
